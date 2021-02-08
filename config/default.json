@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://252sanju:252sanju@devconnector.cycwl.mongodb.net/devConnect?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://252sanju:252sanju@devconnector.cycwl.mongodb.net/devConnect?retryWrites=true&w=majority",
+    "jwtSecret" :"we2435rytgfeddefd"
 }

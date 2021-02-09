@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://252sanju:252sanju@devconnector.cycwl.mongodb.net/devConnect?retryWrites=true&w=majority",
-    "jwtSecret" :"we2435rytgfeddefd"
+    "jwtSecret" :"we2435rytgfeddefd",
+    "gitHubClientId":"e3c7f075931358024ef8",
+    "gitHubSecret":"8e226d4a2f5ca12995a81f43557d4ef977e59d12"
 }
